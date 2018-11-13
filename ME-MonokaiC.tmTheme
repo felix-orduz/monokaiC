@@ -30,17 +30,17 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#272822</string> <!-- #131313 -->
+                <string>#042029</string> <!-- #131313 -->
                 <key>caret</key>
-                <string>#00bbff</string>
+                <string>#0F333F</string>
                 <key>foreground</key>
                 <string>#dddddd</string>
                 <key>invisibles</key>
                 <string>#1f1f1f</string>
                 <key>lineHighlight</key>
-                <string>#383830</string>
+                <string>#0F333F</string>
                 <key>selection</key>
-                <string>#3d1700</string>
+                <string>#204957</string>
                 <key>selectionBorder</key>
                 <string>#553420</string>
                 <key>inactiveSelection</key>
